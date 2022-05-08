@@ -14,10 +14,11 @@ Through the last three years (2020-2022) Scandinavian countries reported the hig
 
 ## Sources of data
 
-Happiness: https://worldhappiness.report/ed/2022/#appendices-and-data
-2 csv tables: 2020, 2021, 2022
+1. World Happiness Reports between years: 2020-2022 were found: https://worldhappiness.report/ed/2022/#appendices-and-data
+   The data comrpimises 3 csv files holding the outcomes for survey collected in 153 countries. 
 
-COVID deaths WHO: https://covid19.who.int/data
-csv table with date collected from all 195 countries acorss 2020-today (May 2022)
+
+2. The World Health Organization updates data on COVID mortility on their offocial website: https://covid19.who.int/data
+   The data used in our project contains data collected from all 195 countries worldwide between 01/01/2020 - today (May 2022). We used the data      up to 31/03/2022, to match the timeline of World Happiness Reports yearly survey.
 
 
