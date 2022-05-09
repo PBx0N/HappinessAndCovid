@@ -9,7 +9,7 @@ From 2020 until today, the pandemic had a tremendous impact on human health and 
 
 In this project, we aim to combine both sources of data and find how the last two years of living in a pandemic shaped the outcomes of World Happiness. We used Jupyter notebook python scripts to transform and analyse data from the data sources via file “Covid_Happiness_Analysis.ipynb” where we use data in the “Resources” folder.  
 
-We have uploaded our final data “Analysis_Covid_Happiness_Data.csv” into PostgreSQL relational Database called “HappinessCovid_db” using “Schemas_HappinessCovid.sql” to create table import the final data into the database. We also used “Query_HappinessCovid.sql” file to run a query and double check if the data has been imported correctly. The plotly scatter output to show the correlation of the data in “Output” folder. 
+We have uploaded our final data “Analysis_Covid_Happiness_Data.csv” into PostgreSQL relational Database called “HappinessCovid_db” using “Schemas_HappinessCovid.sql” to create table to import the final data into the database. We also used “Query_HappinessCovid.sql” file to run a query and double check if the data has been imported correctly. The plotly scatter output to show the correlation of the data in “Output” folder. 
 
 ## Findings
 Per the scatter plots, we found that there are no correlations between the percentage of COVID deaths (Percentage_deaths) and the percentage change in happiness (Happiness_Difference). 
