@@ -21,9 +21,9 @@ Although the happiest 5 countries scored less in the survey in the last two year
 ## Extract
 This data has been downloaded and saved in the “Resources” folder. The sources are as follows: 
 
-World Happiness - 3 csv files holding the outcomes for surveys collected in 153 countries. (https://worldhappiness.report/ed/2022/#appendices-and-data)
-World Health Organization - csv file containing data on COVID mortality collected from all 195 countries between 01/01/2020 - today (May 2022). (https://covid19.who.int/data)
-World Bank - csv file containing the total population for each country collected in 2020. (https://data.worldbank.org/indicator/SP.POP.TOTL) 
+1. World Happiness - 3 csv files holding the outcomes for surveys collected in 153 countries. (https://worldhappiness.report/ed/2022/#appendices-and-data)
+2. World Health Organization - csv file containing data on COVID mortality collected from all 195 countries between 01/01/2020 - today (May 2022). (https://covid19.who.int/data)
+3. World Bank - csv file containing the total population for each country collected in 2020. (https://data.worldbank.org/indicator/SP.POP.TOTL) 
 
 WHO data was used up to 31/03/2022, as to match the timeline of the World Happiness yearly survey. All data files used were originally in .csv format.
 
