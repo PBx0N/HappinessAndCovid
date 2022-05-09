@@ -10,8 +10,9 @@ In this project we aim to combine both sources of data and find how the last two
 
 ## Findings
 
-Through the last three years (2020-2022) Scandinavian countries reported the highest scores in happiness survey, Finland, Denmark, Switzerland, Iceland, Norway and Sweden found at the top of the ranking. In the last two years a decrease in happiness scores was registered for THE NUMBER OF COUNTRIES, while THE NUMBER OF COUNTRIES reported higher content with their lives regardless of the pandemic. Altough, the most happiest countries scored less in the survey in the last two years,they maintained their high positions. The number of COVID-caused deaths in these countries accounted for 0.05-0.1% of the total population (<10M), which is relatively low when compared to these countries which lost nearly 1%. These findings suggest that Happy Countries' Social Support (inlduing medical assistance) may play important roles in how people define 
+Through the last three years (2020-2022) Norden countries reported the highest scores in happiness survey, Finland, Denmark, Switzerland*, Iceland, Norway and Sweden found at the top of the ranking. In the last two years a decrease in happiness scores was registered for THE NUMBER OF COUNTRIES, while THE NUMBER OF COUNTRIES reported higher content with their lives regardless of the pandemic. Altough, the happiest 5 countries scored less in the survey in the last two years, they maintained their high positions. The number of COVID-caused deaths in these countries accounted for 0.05-0.1% of the total population (<10M), which is relatively low when compared to more populated countries which lost nearly 1% of their citizans. These findings suggest that Happy Countries' Social Support (inlduing medical assistance) may play important roles in how people define 
 
+* - Switzerland is not a part of Norden countries
 ## Sources of data
 
 1. World Happiness Reports between years: 2020-2022 were found: https://worldhappiness.report/ed/2022/#appendices-and-data
