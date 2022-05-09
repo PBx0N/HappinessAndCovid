@@ -59,7 +59,7 @@ Data transformation was done using Python through Jupyter Notebook with Pandas, 
 
 ## Load
 
-The aim of this project is to see the impact of covid in a world happiness index.
+The aim of this project is to explore the impact of covid deaths in a world happiness index.
 
 We have five tables: 2020-world happiness, 2021-world happiness,2022-world happiness, WHO-World-Covid-gobal-data and World-Bank where we extract happiness scores from world happiness tables, population from world-Bank and death from WHO-Covid-gobal-data to analyse and reach the final data “Analysis_Covid_Happiness_Data.csv” and upload to PostgreSQL Database called “HappinessCovid_db”.
 
