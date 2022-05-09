@@ -1,4 +1,15 @@
-# HappinessAndCovid
+# Project Proposal
+## Title: Happiness And Covid
+### notes:
+The final README reflects the following:\
+√ Proposal cites at least two sources of data\
+√ Proposal includes the type of final production database to load the data into (relational or non-relational)\
+√ Gives relevant and succinct description of findings (2–3 sentences)
+
+The final README reflects the following:\
+√ Extract: indicates the original data sources and how the data were formatted at a professional level\
+√ Transform: explains what data clearing or transformation was required at a professional level\
+√ Load: explains the final database, tables/collections, and why the topic was chosen at a professional level\
 
 ## Project proposal
 The aim of this project is to find the impact of COVID mortility on happiness. The World Happiness Report (WHR) conducts a yearly global survey and collects the data to report how people evaluate their own lives in over 150 countries worldwide. Through the last 10 years WHR delivered the happiness outcomes based on the avaraged scores collected for each country by accessing their subjective well-being divided into 6 categories (Income, Social Support, Life Expectancy, Freedom, Generosity, Corruption). 
