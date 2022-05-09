@@ -63,7 +63,7 @@ The aim of this project is to see the impact of covid in a world happiness index
 
 We have five tables: 2020-world happiness, 2021-world happiness,2022-world happiness, WHO-World-Covid-gobal-data and World-Bank where we extract happiness scores from world happiness tables, population from world-Bank and death from WHO-Covid-gobal-data to analyse and reach the final data “Analysis_Covid_Happiness_Data.csv” and upload to PostgreSQL Database called “HappinessCovid_db”.
 
-The below describes the data in each columns the database. 
+The below describes the data in each columns the table "HappinessCovidAnalysis" in the database. 
    - Country
       - Country that participated in the happiness survey
    - Happiness_Difference
